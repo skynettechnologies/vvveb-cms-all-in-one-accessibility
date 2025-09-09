@@ -140,7 +140,7 @@ English (USA), English (UK), English (Australian), English (Canadian), English (
    - Option 1: Download the plugin ZIP file and extract it.  
    - Option 2: Clone directly from GitHub:
      ```bash
-     git clone https://github.com/skynettechnologies/vvveb-allinoneaccessibility.git
+     git clone https://github.com/skynettechnologies/vvveb-cms-all-in-one-accessibility.git
      ```
 
 2. **Move the Plugin to the Plugins Directory**
